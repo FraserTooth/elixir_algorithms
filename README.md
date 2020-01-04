@@ -2,6 +2,13 @@
 
 This repository contains solutions to some problems I found online, using Elixir
 
+Use `mix test` to run the local unit tests for each algorithm
+
+## Done so Far
+
+1. FizzBuzz
+
+
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
