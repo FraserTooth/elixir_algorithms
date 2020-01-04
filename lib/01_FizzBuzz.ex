@@ -4,12 +4,22 @@ defmodule FizzBuzz do
   """
 
   @doc """
-  Hello world.
+  Fizz Buzz works by giving a number for the loop to count to
 
   ## Examples
 
-      iex> ElixirAlgorithms.hello()
-      :world
+      iex> FizzBuzz.fizzBuzz(10)
+      1
+      2
+      Fizz
+      4
+      Buzz
+      Fizz
+      7
+      8
+      Fizz
+      Buzz
+      :ok
 
   """
   def fizzBuzz(n) do
